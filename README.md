@@ -1,2 +1,2 @@
 # MIPS_Calculator
-A calculator with basic mathematic operations based using MIPS assembly language.
+This project implements a simple calculator using MIPS assembly language. The calculator supports basic arithmetic operations, including addition, subtraction, multiplication, and division. It is designed to run in the MARS (MIPS Assembler and Runtime Simulator) environment, providing an educational platform for understanding assembly language programming and the MIPS architecture.
